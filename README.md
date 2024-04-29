@@ -4,7 +4,8 @@ This project is part of the Socface project, which aims to leverage handwritten 
 
 ## Project Contents
 
-- **Source Code:** The source code of our implementation is available in the `notebook` folder. You'll find all the notebook for each model we have trained.
+- **Source Code:** The source code of our implementation is available in the `notebook` folder. You'll find in it five notebooks, one of them corresponding to the descriptive analysis we have done and authers to models we have trained.
+
   
 - **Data:** The data used in this project is available in the `data` folder. 
 - **Report:** The detailed report of our study, including a task presentation, data description, model analysis, and explanation of our experiments and results, is available in the `report` folder.
